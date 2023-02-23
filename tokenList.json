@@ -20,7 +20,7 @@
       "name": "WTPBX",
       "symbol": "WTPBX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/wnetz.png"
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/wtoken.png"
     },
 
 
@@ -30,7 +30,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 404040,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/eth.png"
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/eth.png"
     },
     {
       "name": "BNB",
@@ -38,7 +38,7 @@
       "symbol": "BNB",
       "decimals": 18,
       "chainId": 404040,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/bnb.png"
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/bnb.png"
     },
 
     {
@@ -47,7 +47,7 @@
       "symbol": "MATIC",
       "decimals": 18,
       "chainId": 404040,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/matic.png"
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/matic.png"
     }
     
 
