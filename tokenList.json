@@ -48,6 +48,16 @@
       "decimals": 18,
       "chainId": 404040,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/matic.png"
+    },
+    
+    
+    {
+      "name": "USDT",
+      "address": "0x5f2Ba906D7cab7081d3DB92697aC8C30beC70C16",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 404040,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/usdt.png"
     }
     
 
